@@ -6,3 +6,6 @@ We are going to utilize this dataset for predicting age and gender of a person.
 
 
 kaggle link: https://www.kaggle.com/datasets/jangedoo/utkface-new/data
+
+![image](https://github.com/Kushoza8/DL-I-Lab-Project/assets/115579530/7b792433-e82f-4e8d-9aaa-8bb7633010ee)
+
